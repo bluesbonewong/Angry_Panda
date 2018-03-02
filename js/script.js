@@ -24,10 +24,15 @@
 	}
 
 	let code = `/*
+ *右边的按钮可以调节速度哟~~~
+ */
+
+/*
  *首先呢
  *给我们的Angry Panda来一个背景
  *颜色必须要装逼灰
  */
+ 
 .preview-wrapper {
 	background: #cccccc;
 }
