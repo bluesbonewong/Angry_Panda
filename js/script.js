@@ -148,8 +148,8 @@
  *好啦，这只Angry Panda送给
  *敲代码敲红了眼的你和我
  *产品再敢来这，一个眼神就灭了他^_^
- *design & code by <a href="http://www.github.com/">bluesboneWong</a>
- *Welcome <a href="">Fork</a> & <a href="">Star</a>
+ *design & code by <a href="https://github.com/bluesbonewong/Angry_Panda">bluesboneWong</a>
+ *Welcome Fork & Star
  */
 `
 	writeCode('', code)
