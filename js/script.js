@@ -38,8 +38,8 @@
  */
 
 .face {
-	width: 330px;
-	height: 330px;
+	width: 300px;
+	height: 300px;
 	border: 12px solid black;
 	background: white;
 	border-radius: 50%;
@@ -53,8 +53,8 @@
  */
 
 .ear {
-	width: 130px;
-	height: 130px;
+	width: 110px;
+	height: 110px;
 	border-radius: 50%;
 	background: black;
 	position: absolute;
@@ -107,6 +107,8 @@
 
 .eye {
 	/*注意眼睛半圆形是由一个长方形变过来的*/
+	/*哎呀，不好意思，这句话是写给我自己看的*/
+	/*毕竟写注释是个好习惯^_^*/
 	height: 60px;
 	width: 115px;
 	border-radius: 0 0 115px 115px;
